@@ -1,0 +1,3 @@
+Ejemplo de Archivo de Texto
+MAYUSCULAS
+minusculas
